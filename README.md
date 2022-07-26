@@ -1,2 +1,4 @@
 # My Module&Package
-This repository has usual Modules and Packages I used, including code and document.Some tips will be set in as well.
+This repository has usual Modules and Packages I used, including codes and documents.
+
+Some tips will be set in as well.
