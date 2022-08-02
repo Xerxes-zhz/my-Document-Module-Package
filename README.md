@@ -11,3 +11,6 @@ Some tips will be set in as well.
 ## Json
 [Json's Tutorial](https://realpython.com/python-json/)
 [Json's Document](https://docs.python.org/3/library/json.html#basic-usage)
+
+## Shutil
+[Shutil's Document](https://docs.python.org/3/library/shutil.html)
