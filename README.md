@@ -14,3 +14,8 @@ Some tips will be set in as well.
 
 ## Shutil
 [Shutil's Document](https://docs.python.org/3/library/shutil.html)
+
+## Golang
+[Go's Tutorial](https://www.runoob.com/go/go-tutorial.html)
+[Go's Chinese Document](http://doc.golang.ltd/)
+[Go's Document](https://go.dev/doc/)
